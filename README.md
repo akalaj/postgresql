@@ -11,21 +11,17 @@ Repo for housing postgresql knowledge
   <tr>
     <td>SHOW DATABASES</td>
     <td>\list</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
   </tr>
   <tr>
-    <td>February</td>
+    <td>one</td>
     <td>$80</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
-    <td>BLANK</td>
+  </tr>
+  <tr>
+    <td>two</td>
+    <td>$80</td>
+  </tr>
+  <tr>
+    <td>three</td>
+    <td>$80</td>
   </tr>
 </table>
