@@ -13,15 +13,23 @@ Repo for housing postgresql knowledge
     <td>\list</td>
   </tr>
   <tr>
-    <td>one</td>
-    <td>$80</td>
+    <td>Use Database</td>
+    <td>\c $DB_NAME</td>
   </tr>
   <tr>
-    <td>two</td>
-    <td>$80</td>
+    <td>SHOW TABLES</td>
+    <td>\dt</td>
   </tr>
   <tr>
-    <td>three</td>
-    <td>$80</td>
+    <td>DESCRIBE $TBL_NAME</td>
+    <td>\d $TBL_NAME</td>
+  </tr>
+  <tr>
+    <td>exit</td>
+    <td>\quit</td>
+  </tr>
+  <tr>
+    <td>DESCRIBE $TBL_NAME</td>
+    <td>\d $TBL_NAME</td>
   </tr>
 </table>
