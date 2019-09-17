@@ -10,10 +10,22 @@ Repo for housing postgresql knowledge
   </tr>
   <tr>
     <td>SHOW DATABASES</td>
-    <td>\l</td>
+    <td>\list</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
   </tr>
   <tr>
     <td>February</td>
     <td>$80</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
+    <td>BLANK</td>
   </tr>
 </table>
